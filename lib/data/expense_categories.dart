@@ -1,0 +1,18 @@
+const expenseCategories = [
+  'Comida',
+  'Mercado',
+  'Carro',
+  'Gasolina',
+  'Roupas',
+  'Casa',
+  'Saude',
+  'Lazer',
+  'Assinaturas',
+  'Eletronicos',
+  'Viagem',
+  'Trabalho',
+  'Educacao',
+  'Pets',
+  'Presentes',
+  'Outros',
+];
